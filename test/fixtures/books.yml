@@ -3,9 +3,13 @@
 one:
   name: MyString
   author: MyString
-  desciption: MyText
+  description: MyText
+  price: 1
+  availability: false
 
 two:
   name: MyString
   author: MyString
-  desciption: MyText
+  description: MyText
+  price: 1
+  availability: false
