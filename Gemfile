@@ -7,12 +7,14 @@ gem 'rails', '4.2.6'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'sass-rails', '>= 3.2'
+gem 'sass-rails'
 gem 'devise'
 gem 'simple_form'
 gem 'cancan'
 gem 'paperclip'
-gem 'dotenv-rails', groups: [:development]
+gem 'dotenv-rails', group: [:development]
+gem 'aws-sdk'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
