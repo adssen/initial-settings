@@ -16,6 +16,7 @@ gem 'dotenv-rails', group: [:development]
 gem 'aws-sdk'
 gem 'friendly_id'
 gem 'stripe'
+gem 'aasm'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
